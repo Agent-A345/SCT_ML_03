@@ -50,8 +50,10 @@ python task3.py
 7. Load unlabeled images from the `test1/` folder and generate predictions.
 8. Save the trained model (`model.joblib`), evaluation metrics (`metrics.txt`), and submission file (`submission.csv`) to the `runs/simple_svm/` directory.
 
-## Dataset used - Kaggle
-https://www.kaggle.com/c/dogs-vs-cats/data
+## 📂 Dataset Used – Kaggle
+
+📎 [Dogs vs Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)  
+Used for training and testing the image classification model.
 
 ## 🙌 Acknowledgements
 Thanks to SkillCraft Technology for the opportunity to work on this internship project.
